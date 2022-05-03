@@ -1,4 +1,4 @@
-#To Run 
+# To Run 
 
 1. Load DB file with [DB Browser for SQLite]|(https://sqlitebrowser.org/).
 2. Use SQL script in this repo (SAC-Analysis) to calculate SAC rate per dive: needs correction as it assumes 80 ft^3 cylinder 
