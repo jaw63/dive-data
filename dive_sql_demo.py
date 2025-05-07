@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to the database
-conn = sqlite3.connect('dives.db')
+conn = sqlite3.connect('dives\dives may 2025.db')
 
 # Create a cursor object
 cursor = conn.cursor()
